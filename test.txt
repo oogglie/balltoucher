@@ -1,0 +1,188 @@
+balls
+
+
+Game Concept – Eternal Sigils
+A hero-collection idle RPG where factions, races, and morality tiers collide in an endless struggle. Heroes evolve from mortals to godlike beings, while Celestials and Abyssals (demigods) lead the charge in the war for magical Sigils.
+
+Core Gameplay
+Genre: Idle RPG / Hero Collector
+
+Battle System: 5v5 auto-battles with optional manual ultimate timing
+
+Progression Loop:
+
+Collect heroes via summons/events.
+
+Build synergistic teams based on faction, race, and class.
+
+Advance in Campaign, PvP, Raids, and Towers.
+
+Ascend mortals to Godlike tier.
+
+Unlock rare Demigods (Celestials/Abyssals).
+
+Factions (6 Factions)
+1. Celestials (Good Demigods)
+Alignment: Divine / Good
+
+Races Used: Kitsune, Elves, Men, Dwarves
+
+Theme: Cosmic light, holy sigils, divine order.
+
+Strengths: Resurrection, shields, healing buffs, versatile support/damage.
+
+Special Buff: Radiance – Shields all allies every 10 seconds.
+
+2. Abyssals (Evil Demigods)
+Alignment: Infernal / Evil
+
+Races Used: Vampires, Dark Elves, Phantoms, Demon-kin
+
+Theme: Chaos, corruption, void magic.
+
+Strengths: AoE corruption, lifesteal, curses, high offense.
+
+Special Buff: Corruption – Applies DoT when enemies are debuffed.
+
+3. Aurion (Good)
+Alignment: Holy Order
+
+Races Used: Men, Halflings, Aetherians
+
+Theme: Crusaders, paladins, clerics.
+
+Strengths: Shields, crowd control immunity, healing.
+
+4. Sylvari (Good)
+Alignment: Nature / Harmony
+
+Races Used: Elves, Beastmen, Centaurs
+
+Theme: Forest druids, beastfolk, elemental guardians.
+
+Strengths: Regeneration, bleed/poison, control with vines/roots.
+
+5. Noctis (Evil)
+Alignment: Shadow / Deception
+
+Races Used: Dark Elves, Vampires, Phantoms
+
+Theme: Assassins, necromancers, shadow warriors.
+
+Strengths: High burst damage, stealth, silences.
+
+6. Netherborn (Evil)
+Alignment: Undeath / Corruption
+
+Races Used: Skeletons, Zombies, Harpies, Sirens
+
+Theme: Plague, undeath, banshee cries.
+
+Strengths: Summoning undead minions, DoT disease effects.
+
+Race Overview
+Evil Races
+Vampires: Lifesteal, blood magic, charm.
+
+Dark Elves: Shadow assassins with poison magic.
+
+Skeletons: Endless summons and swarm tactics.
+
+Zombies: Disease-based DoT and self-reanimation.
+
+Phantoms: Phase attacks, fear-based crowd control.
+
+Harpies: Aerial DPS and bleed-focused attacks.
+
+Sirens: Charm and AoE magical dissonance.
+
+Neutral Races
+Beastmen: Physical DPS/tank hybrids.
+
+Kitsune (Magic-Focused): Illusionists and elemental tricksters; excel at AoE magic and crowd control.
+
+New Synergy: Kitsune and Elves gain Mystic Resonance – increases both magic power and ultimate charge speed when together.
+
+Trolls: Regenerative brutes with taunts.
+
+Orcs: Berserkers with rage scaling.
+
+Goblins: Sabotage, traps, and explosives.
+
+Centaurs: Mobile DPS with charge-based AoE.
+
+Good Races
+Halflings: Luck-based evasion and support buffs.
+
+Elves: Elemental magic and precision archery.
+
+Men (Humans): Balanced and adaptive fighters.
+
+Dwarves: Defensive tanks with rune-based weaponry.
+
+Aetherians: Winged humans blending melee and holy magic.
+
+Morality & Power Scaling
+1. Mortal
+Standard heroes forming the majority of rosters.
+
+Can ascend to Godlike tier through rare Sigil Ascension materials.
+
+2. Godlike
+Mortals infused with Sigil power.
+
+Gain new abilities, stat multipliers, and unique ultimate variations.
+
+3. Demigod
+Exclusive to Celestials and Abyssals.
+
+Always command their racial pools (Kitsune/Elves/Men/Dwarves for Celestials; Vampires/Dark Elves/Phantoms for Abyssals).
+
+Provide faction-wide aura buffs.
+
+Synergy Bonuses
+Faction Synergy
+3 Good Heroes: +10% Healing Received / +10% Defense
+
+3 Evil Heroes: +10% Damage / +5% Lifesteal
+
+3 Neutral Heroes: +10% Speed / +10% Energy Gain
+
+Celestials Present: Activate Radiance (teamwide shielding)
+
+Abyssals Present: Activate Corruption (DoT on debuffed enemies)
+
+Race Synergy
+2+ Vampires: Lifesteal Aura (+10%)
+
+2+ Dark Elves: Stealth Duration +20%
+
+2+ Skeleton/Zombies: Extra minion summons
+
+2+ Aetherians: Passive healing over time
+
+2+ Beastmen: +10% attack speed
+
+2+ Kitsune + 2+ Elves: Mystic Resonance – +15% magic attack and +15% ultimate charge speed
+
+Mixed Evil Races: Corrupt Harmony (stackable DoT bonus)
+
+Mixed Good Races: Holy Harmony (stackable healing bonus)
+
+Class Synergy
+2+ Tanks: Shared Defense (+15% damage reduction)
+
+2+ Healers: Chain Healing (heals bounce between allies)
+
+2+ Mages: Mana Overload (faster ultimate gain)
+
+2+ Assassins: Ambush Bonus (+Crit on first strike)
+
+Mixed Classes: Versatility (+5% all stats)
+
+Celestial vs Abyssal Special Interaction
+Celestials > Abyssals: +20% damage to Abyssals
+
+Abyssals > Celestials: Inflict Corruption (reduces healing)
+
+Celestial + Abyssal Team Combo: Unlocks Balance of Power (buffs scale dynamically as heroes fall in battle)
